@@ -1,4 +1,4 @@
-<h1> # CodSoft Internship C++ Projects </h1>
+<h1>  CodSoft Internship C++ Projects </h1>
 
 Welcome to my repository containing C++ projects developed during my internship at Codsoft. These projects showcase my progress, skills, and experiences gained during the internship.
 
